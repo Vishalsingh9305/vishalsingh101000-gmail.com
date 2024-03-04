@@ -1,1 +1,1 @@
-# vishalsingh101000-gmail.com
+# Potato-Disease-Classification
